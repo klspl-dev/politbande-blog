@@ -57,6 +57,13 @@ a { color: var(--accent); }
   border-left: 6px solid var(--accent);
   padding-left: 1rem;
 }
+.site-title .signature {
+  display: block;
+  text-align: right;
+  color: #bfbfbf;
+  font-size: 0.95rem;
+  margin: 0.9rem 0 0;
+}
 
 /* Teaser-Kacheln auf der Übersichtsseite */
 .teaser-list {
