@@ -208,6 +208,19 @@ color: var(--muted);
 font-size: 0.85rem;
 margin: 0 0 2rem;
 }
+.inline-photo {
+max-width: 100%;
+height: auto;
+border-radius: 6px;
+display: block;
+margin: 1.5rem 0 0.5rem;
+}
+.photo-caption {
+color: var(--muted);
+font-size: 0.85rem;
+font-style: italic;
+margin: 0 0 1.5rem;
+}
 .post-date {
 display: inline-block;
 color: #fff;
