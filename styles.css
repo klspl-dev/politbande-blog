@@ -90,6 +90,19 @@ font-size: 0.95rem;
 margin: 0.9rem 0 0;
 }
 
+/* Logo-Banner (Startseite) */
+.logo-banner {
+max-width: 900px;
+margin: 2rem auto;
+padding: 0 1.5rem;
+}
+.logo-banner img {
+width: 100%;
+height: auto;
+border-radius: 6px;
+display: block;
+}
+
 /* Teaser-Kacheln auf der Übersichtsseite */
 .teaser-list {
 max-width: 900px;
