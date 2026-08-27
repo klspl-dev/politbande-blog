@@ -221,6 +221,9 @@ font-size: 0.85rem;
 font-style: italic;
 margin: 0 0 1.5rem;
 }
+.lyrics {
+  white-space: pre-line;
+}
 .post-date {
 display: inline-block;
 color: #fff;
